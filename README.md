@@ -4,7 +4,7 @@
 
 AI-Vakeel is an advanced AI-powered legal assistant designed to provide comprehensive legal information, case studies, and guidance on Indian law. It leverages large language models and vector search to deliver accurate and contextual legal responses.
 
-![AI-Vakeel Logo](assets/screenshots/logo.png)
+
 
 ## Screenshots
 
