@@ -4,6 +4,27 @@
 
 AI-Vakeel is an advanced AI-powered legal assistant designed to provide comprehensive legal information, case studies, and guidance on Indian law. It leverages large language models and vector search to deliver accurate and contextual legal responses.
 
+![AI-Vakeel Logo](assets/screenshots/logo.png)
+
+## Screenshots
+
+Here's a preview of AI-Vakeel in action:
+
+### Chat Interface
+
+![Chat Interface](assets/screenshots/chat-interface.png)
+_AI-Vakeel providing detailed legal information with proper citations._
+
+### Case Law Analysis
+
+![Case Law Analysis](assets/screenshots/case-law.png)
+_Relevant case studies and landmark judgments with comprehensive analysis._
+
+### User Dashboard
+
+![User Dashboard](assets/screenshots/dashboard.png)
+_Manage your legal queries and saved sessions._
+
 ## Features
 
 - **Legal Information Retrieval**: Access information on Constitutional articles, IPC/CrPC sections, and legal amendments
@@ -79,6 +100,8 @@ AI-Vakeel/
 │   └── legal_documents/   # Legal reference PDFs
 ├── Faiss/                 # Vector database files
 ├── sessions/              # User chat sessions
+├── assets/                # Images and media files
+│   └── screenshots/       # Application screenshots
 └── utils/                 # Utility functions
     └── session_manager.py # User session management
 ```
