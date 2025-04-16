@@ -10,20 +10,36 @@ AI-Vakeel is an advanced AI-powered legal assistant designed to provide comprehe
 
 Here's a preview of AI-Vakeel in action:
 
+### Landing Page
+
+![Landing Page 1](assets/screenshots/landing_page1.png)
+_Welcome to AI-Vakeel - Your AI Legal Assistant for Indian Law_
+
+![Landing Page 2](assets/screenshots/landing_page2.png)
+_Easy access to comprehensive legal assistance_
+
+### Login Interface
+
+![Login Interface](assets/screenshots/login_interface.png)
+_Secure login to access your personal legal assistant_
+
 ### Chat Interface
 
-![Chat Interface](assets/screenshots/chat-interface.png)
-_AI-Vakeel providing detailed legal information with proper citations._
+![Chat Interface](assets/screenshots/chat_interface.png)
+_AI-Vakeel providing detailed legal information with proper citations_
 
-### Case Law Analysis
+### Message Interface
 
-![Case Law Analysis](assets/screenshots/case-law.png)
-_Relevant case studies and landmark judgments with comprehensive analysis._
+![Message Interface](assets/screenshots/message_interface.png)
+_Intuitive messaging interface for legal queries_
 
-### User Dashboard
+### Response Interface
 
-![User Dashboard](assets/screenshots/dashboard.png)
-_Manage your legal queries and saved sessions._
+![Response 1](assets/screenshots/response1_interface.png)
+_Get detailed legal responses with proper citations_
+
+![Response 2](assets/screenshots/response2_interface.png)
+_Comprehensive answers to complex legal questions_
 
 ## Features
 
