@@ -24,25 +24,67 @@ wheels/
 venv/
 ENV/
 env/
+.venv/
 
 # Environment Variables
 .env
+.env.*
+!.env.example
 
 # Database
 *.db
 *.sqlite3
+app.db
 
 # IDE
 .idea/
 .vscode/
 *.swp
 *.swo
+.ipynb_checkpoints/
 
 # Project specific
 sessions/
 Faiss/
 dataset/*.pdf
+encryption_key.key
 
 # OS specific
 .DS_Store
-Thumbs.db 
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+*.log.*
+ingest.log
+app.log
+ai_vakeel.log
+
+# Excel files
+*.xlsx
+*.xls
+*.csv
+
+# Backup files
+*_backup_*/
+*.bak
+Faiss_backup_*/
+
+# Large binary files
+*.faiss
+*.pkl
+*.bin
+*.h5
+*.onnx
+*.pt
+*.pth
+
+# Temporary files
+tmp/
+temp/
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/ 

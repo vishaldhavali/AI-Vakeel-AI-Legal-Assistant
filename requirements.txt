@@ -1,9 +1,37 @@
-PyPDF2
-langchain
-langchain_google_genai
-google-generativeai
-langchain_community
-python-dotenv
-streamlit
-faiss-cpu
-streamlit_authenticator
+# Core dependencies
+streamlit==1.29.0
+python-dotenv==1.0.0
+requests==2.31.0
+tqdm==4.66.1
+streamlit_authenticator==0.2.3
+cryptography==44.0.2
+PyPDF2==3.0.0
+streamlit-lottie==0.0.5
+streamlit-option-menu==0.3.2
+
+# Vector database - use prebuilt wheel
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==2.2.0+cpu
+faiss-cpu==1.7.4
+
+# LangChain ecosystem with fixed compatible versions
+langchain==0.0.335
+langchain-core==0.1.7
+langchain-google-genai==0.0.6
+langchain-community==0.0.9
+google-generativeai==0.3.2
+
+# Pydantic and types with fixed versions to avoid validation errors
+pydantic==1.10.8
+typing-inspect==0.9.0
+typing-extensions==4.8.0
+
+# Additional dependencies
+numpy==1.26.4
+tenacity==8.2.3
+aiohttp==3.9.1
+SQLAlchemy==2.0.25
+jsonpatch==1.33
+PyYAML==6.0.1
+dataclasses-json==0.6.1
+cffi==1.17.1
