@@ -4,6 +4,11 @@
 
 AI-Vakeel is an advanced AI-powered legal assistant designed to provide comprehensive legal information, case studies, and guidance on Indian law. It leverages large language models and vector search to deliver accurate and contextual legal responses.
 
+## 📄 Research Publication
+
+This project is backed by in-depth academic research. You can read the full research paper published in the *International Journal of Scientific Research in Engineering and Management (IJSREM)*:
+
+🔗 [AI-Vakeel: An AI-Powered Platform for Smart Legal Query Resolution in the Indian Judiciary (IJSREM)](https://ijsrem.com/download/ai-vakeel-an-ai-powered-platform-for-smart-legal-query-resolution-in-the-indian-judiciary/)
 
 
 ## Screenshots
